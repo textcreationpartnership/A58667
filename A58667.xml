@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message from Tory-land to the VVhig-makers in Albian a whig thing, to the tune of, Sawney and jockey, 11 July, 1682.</title>
+            <author>R. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58667</idno>
+            <idno type="STC">Wing S134A</idno>
+            <idno type="STC">ESTC R8481</idno>
+            <idno type="EEBO-CITATION">11904456</idno>
+            <idno type="OCLC">ocm 11904456</idno>
+            <idno type="VID">50642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 509:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message from Tory-land to the VVhig-makers in Albian a whig thing, to the tune of, Sawney and jockey, 11 July, 1682.</title>
+                  <author>R. S.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Conyers ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Signed: R.S.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:50642:1"/>
+            <!-- PDF PAGE 6 -->
+            <pb facs="tcp:50642:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>A Meſſage from Tory-Land To the VVhig-Makers in Albian.</head>
+            <opener>To the Tune of, <hi>Sawney and Iockey.</hi> 
+               <dateline>
+                  <date>
+                     <add>11. July. 1682.</add>
+                  </date>
+               </dateline>
+            </opener>
+            <lg n="1">
+               <head>[1]</head>
+               <l>FRom <hi>Rome</hi> I am come, <hi>His Holyneſs</hi> ſent me</l>
+               <l>To you his faſt Favourits, to complement ye</l>
+               <l>Saint <hi>Peters</hi> Succeſſor his friends doth impute ye</l>
+               <l>Expecting you'l Firmly abide in your duty,</l>
+               <l>And daily ſcribble, nibble, quibble,</l>
+               <l>Your mother defend, you ſuck'd at her nipple,</l>
+               <l>She who did breed you, lead you, feed you,</l>
+               <l>Claims your Aſſiſtance now ſhe doth need you.</l>
+            </lg>
+            <lg n="2">
+               <head>[2]</head>
+               <l>And with me I bring the Popes Diſpenſations,</l>
+               <l>To furniſh you all on any Occaſions,</l>
+               <l>Then ſwear and forſwear as occaſion requires,</l>
+               <l>And Cities inflame with your <hi>Catholick</hi> fires,</l>
+               <l>If you can't turn um, ſcorn um, burn um,</l>
+               <l>Elſe with your ſanctified Daggers adorn um,</l>
+               <l>Bring to Perfection Diſtraction, and Faction,</l>
+               <l>The <hi>Pope</hi> will account it a glorious action.</l>
+            </lg>
+            <lg n="3">
+               <head>[3]</head>
+               <l>I come to encourage Projectors and Actors,</l>
+               <l>
+                  <hi>His Holineſs</hi> implements, &amp; the Church Factors</l>
+               <l>Your Zeal for the Cauſe is put to a Tryal,</l>
+               <l>When you at the <hi>Gallows</hi> can die in deniall,</l>
+               <l>Thouſands of Croſſes, Maſſes, paſſes</l>
+               <l>To mount your bleſt Souls to <hi>Peters</hi> imbraces,</l>
+               <l>You his Inditers, Biters, and Writers,</l>
+               <l>Have done him more Service then Armies of Fighters</l>
+            </lg>
+            <lg n="4">
+               <head>[4]</head>
+               <l>Poor <hi>Towzer</hi> return'd when the Parliament en<g ref="char:EOLhyphen"/>ded</l>
+               <l>His Politick wit our Cauſe ſtill befriended</l>
+               <l>For his flying Pen ſo ſwift is in Motion,</l>
+               <l>More bleſt with the Craft of St. <hi>Giles's</hi> devotion</l>
+               <l>Thy <hi>Obſervator's</hi> matter, ſcatter,</l>
+               <l>In <hi>Rome</hi> he's a Saint that in <hi>Albian's</hi> a Traytor,</l>
+               <l>Since theſe Diſſenters ventures, enters,</l>
+               <l>Toſs the <hi>Plot</hi> back, we'l ſwear't at adventures.</l>
+            </lg>
+            <lg n="5">
+               <head>[5]</head>
+               <l>The chief of our Foes are now out of favour,</l>
+               <l>This, this is the time, there ne'r was a braver,</l>
+               <l>Our Politicks now hath an excellent face on't,</l>
+               <l>Then down with theſe <hi>Whigs,</hi> not bate um an ace ont</l>
+               <l>Thoſe dull Romances, <hi>Prances,</hi> fancies,</l>
+               <l>To <hi>Catholick Nat</hi> much credit advances,</l>
+               <l>Let his Pen Rogue on, tug on, jog on,</l>
+               <l>Were <hi>Albian</hi> our own, ſtand cleer <hi>Hogan Mogan</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>[6]</head>
+               <l>
+                  <hi>Godfrey</hi>'s Murder was rarely contriv'd,</l>
+               <l>To kill himſelf, he walk'd abroad while he lived,</l>
+               <l>
+                  <hi>Heraclitus, Nat</hi> and the brave <hi>Obſervator,</hi>
+               </l>
+               <l>Ingeniouſly each hath ſtated the matter,</l>
+               <l>For if to fright us, <hi>Titus</hi> indite us,</l>
+               <l>Theſe valiant <hi>Heroe's</hi> ſtand up to right us,</l>
+               <l>thoſe who were ſtringed, ſwinged, hanged</l>
+               <l>As innocent Babes were certainly wronged,</l>
+            </lg>
+            <lg n="7">
+               <head>[7]</head>
+               <l>But dear Madam <hi>Celiers</hi> intrigue did miſcarry,</l>
+               <l>You ſee that 'tis dangerous to be unwary,</l>
+               <l>theſe Hereticks muſt by all means be deſtroyed,</l>
+               <l>And all the Church Rights by us be injoyed,</l>
+               <l>Yet if we arm us, ram us, damn us</l>
+               <l>theſe Heretick Dogs will find <hi>Ignoramus,</hi>
+               </l>
+               <l>Still it miſcarries, it tarries, it varies,</l>
+               <l>Yet never were days ſo bleſt as Queen <hi>Maries.</hi>
+               </l>
+            </lg>
+            <lg n="8">
+               <head>[8]</head>
+               <l>Cloud the <hi>Whigs</hi> Evidence with high Diriſion,</l>
+               <l>And make it your Care to foment Diviſion,</l>
+               <l>Divide if you can the Prince from the people,</l>
+               <l>And that will advance the Crown that is Triple.</l>
+               <l>Now is the time boys, mine boys, thine boys,</l>
+               <l>Eclipſe but the <hi>Whigs,</hi> the <hi>Tories</hi> will ſhine boys,</l>
+               <l>But if you'l root um, ſmoot um, blot um,</l>
+               <l>Cut the Duke's Legs, and ſwear the <hi>Whigs</hi> cut um.</l>
+            </lg>
+            <lg n="9">
+               <head>[9]</head>
+               <l>If mortall Aſſiſtance ſhould happen to fail ye,</l>
+               <l>As't did to St. <hi>Colema<g ref="char:cmbAbbrStroke">̄</g>n, St. Whitebread, St. Staley,</hi>
+               </l>
+               <l>St. <hi>Pickering, St. Grove,</hi> or ſuch Holy Martyrs,</l>
+               <l>ſtand faſt to the Cauſe, ne'r value your Quarters.</l>
+               <l>You ſhall be when dead, painted, ſainted,</l>
+               <l>With Purgatory you ſhall ne'r be acquainted,</l>
+               <l>When you are Torter'd, Quarter'd, Martyr'd,</l>
+               <l>Y'are Cananiz'd Saints all pardon is granted.</l>
+            </lg>
+            <lg n="10">
+               <head>[10]</head>
+               <l>There ne'r was more hope ſince the <hi>Spaniſh</hi> Invaſion</l>
+               <l>to bring in ſubjection this Heretick Nation,</l>
+               <l>And now ſhould it fail and our Plot be defeated,</l>
+               <l>'tis vain to expect 'twill e're be compleated,</l>
+               <l>Win it and wear it, clear it, ſhare it,</l>
+               <l>Poſſeſſion's the due reward of your merit,</l>
+               <l>You ſhall have Guinnies, and it no ſin is</l>
+               <l>to build up with blood on the Proteſtants-Finis.</l>
+            </lg>
+            <closer>
+               <signed>R. S.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for J. Conyers at the Black Raven in Duck-Lane, MDCLXXXII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
